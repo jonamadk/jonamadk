@@ -4,8 +4,6 @@
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
 
-
-# 💫 About Me:
 Currently working on research and development of Data Science, AI/ML integrated intelligent systems.
 
 ## 🌐 Socials:
