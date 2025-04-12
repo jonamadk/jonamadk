@@ -14,7 +14,7 @@ Currently working on research and development of Data Science, AI/ML integrated 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/manoj-adhikari) 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
 - **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
@@ -23,11 +23,23 @@ Currently working on research and development of Data Science, AI/ML integrated 
 - **Data**: MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka, ChromaDB
 - **Business Intelligence & Visualization**: PowerBI, Tableau, Looker
 - **Tools and Packages**: Scrapy, BeautifulSoup, Pandas, Numpy, Matplotlib 
-  
+
+## 🌱 Current Focus
+
+- Researching in data management and information retrieval methods
+- Exploring LLM applications in enterprise systems
+- Building scalable AI-integrated web architectures
+- Contributing to open-source ML projects
+
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/manoj-adk)
+- 📧 [manojadk849@gmail.com](mailto:manojadk849@gmail.com)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jonamadk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jonamadk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonamadk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
