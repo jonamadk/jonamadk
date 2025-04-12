@@ -17,10 +17,12 @@ Currently working on research and development of Data Science, AI/ML integrated 
 # 💻 Tech Stack:
 
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
-- **Backend**: Node.js, Python, GraphQL, REST APIs
-- **AI/ML**: PyTorch, TensorFlow, LangChain, Whisper
-- **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD
-- **Data**: PostgreSQL, MongoDB, Redis, Apache Kafka
+- **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
+- **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers
+- **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD, Azure AI Studio
+- **Data**: MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka, ChromaDB
+- **Business Intelligence & Visualization**: PowerBI, Tableau, Looker
+- **Tools and Packages**: Scrapy, BeautifulSoup, Pandas, Numpy, Matplotlib 
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jonamadk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
