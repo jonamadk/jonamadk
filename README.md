@@ -38,7 +38,7 @@ Currently working on research and development of Data Science, AI/ML integrated 
 - 📧 [manojadk849@gmail.com](mailto:manojadk849@gmail.com)
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jonamadk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### ✍️ Random Dev Quote
