@@ -1,10 +1,10 @@
-###  👋
+###  
 
 
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
 
-Currently working on Research and Development on Intelligent Systems.
+I specialize in developing scalable AI software soution for real world problems. Currently working on Research and Development on Intelligent Systems.
 
 ## 🌐 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-manojadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-adk/)](https://www.linkedin.com/in/manoj-adk/)
