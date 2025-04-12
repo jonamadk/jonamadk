@@ -27,9 +27,9 @@ I specialize in developing scalable AI software soution for real world problems.
 ## 🌱 Current Focus
 
 - Researching in data management and information retrieval methods
-- Exploring LLM applications in enterprise systems
-- Building scalable AI-integrated web architectures
-- Contributing to open-source ML projects
+- Exploring LLM and GenAI applications on business process automation
+- Building scalable AI-integrated web systems
+- Contributing to open-source Data Science/AI/MLNLP projects
 
 
 ## 🤝 Let's Connect
