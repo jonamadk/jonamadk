@@ -4,9 +4,9 @@
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
 
-Currently working on research and development of Data Science, AI/ML integrated intelligent systems.
+Currently working on Research and Development on Intelligent Systems.
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-manojadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-adk/)](https://www.linkedin.com/in/manoj-adk/)
 [![GitHub Badge](https://img.shields.io/badge/-@jonamadk-%23181717?style=flat-square&logo=github)](https://github.com/jonamadk)
 [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=manojadhikary.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://manojadhikary.com.np)
@@ -14,7 +14,7 @@ Currently working on research and development of Data Science, AI/ML integrated 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/manoj-adhikari) 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
 - **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
