@@ -16,9 +16,10 @@ I specialize in developing scalable AI software soution for real world problems.
 
 ## 💻 Tech Stack
 
+
+- **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
 - **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
-- **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers
 - **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD, Azure AI Studio
 - **Data**: MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka, ChromaDB
 - **Business Intelligence & Visualization**: PowerBI, Tableau, Looker
