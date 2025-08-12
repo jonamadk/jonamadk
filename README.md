@@ -36,7 +36,7 @@ I specialize in developing scalable AI software soution for real world problems.
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/manoj-adk)
-- 📧 [manojadk849@gmail.com](mailto:manojadk849@gmail.com)
+
 
 
 ### 📊 GitHub Stats:
