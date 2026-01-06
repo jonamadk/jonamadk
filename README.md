@@ -42,10 +42,6 @@ However, lately my interest is little biased towards:
 - 💼 [LinkedIn](https://linkedin.com/in/manoj-adk)
 
 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonamadk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
