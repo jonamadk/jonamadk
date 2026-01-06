@@ -24,10 +24,9 @@ However, lately my interest is little biased towards:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/manoj-adhikari) 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
-
--- **Programming Languages**: Python, C, C++, Java, C#
+- **Programming Languages**: Python, C, C++, Java, C#
 - **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
 - **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
@@ -36,12 +35,6 @@ However, lately my interest is little biased towards:
 - **Business Intelligence & Visualization**: PowerBI, Tableau, Looker
 - **Tools and Packages**: Scrapy, BeautifulSoup, Pandas, Numpy, Matplotlib 
 
-## 🌱 Current Focus
-
-- Researching in data management and information retrieval methods
-- Exploring LLM and GenAI applications on business process automation
-- Building scalable AI-integrated web systems
-- Contributing to open-source Data Science/AI/MLNLP projects
 
 
 ## 🤝 Let's Connect
