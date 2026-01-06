@@ -3,8 +3,18 @@
 
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
+Every problem that computing can solve excites me! Mostly, I enjoy working on the Research and Development of Intelligent Systems for societal-level and social good. 
+However, lately my interest is little biased towards:
+- NLP
+  1. Non-Linear, creative, and expressive language understanding and reasoning.
+  2. Non-static evaluation benchmarking of LLMs and intelligent decision support systems + Fairness and Trustworthy.
+  3. Advancing information retrieval and reasoning (meta-conversational intelligence, AI Alignment).
 
-I specialize in developing scalable AI software soution for real world problems. Currently working on Research and Development on Intelligent Systems.
+- Computer vision + Health Informatics + BioInformatics
+  1. Challenges associated with Federated Learning ( optimal Layerwise update on local model, averaging methods)
+  2. Image processing
+  3. Gene modeling and visualization
+
 
 ## 🌐 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-manojadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-adk/)](https://www.linkedin.com/in/manoj-adk/)
@@ -17,6 +27,7 @@ I specialize in developing scalable AI software soution for real world problems.
 ## 💻 Tech Stack
 
 
+-- **Programming Languages**: Python, C, C++, Java, C#
 - **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
 - **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
