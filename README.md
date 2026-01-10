@@ -15,7 +15,7 @@ However, lately my interest is little biased towards:
   2. Image processing
   3. Gene modeling and visualization
 
-
+In free time, I love building daily computing tools (PDFX - PDF Utility, SSTX Speech to Text utility, SocilaE- Phishing Awareness Systems). 
 ## 🌐 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-manojadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-adk/)](https://www.linkedin.com/in/manoj-adk/)
 [![GitHub Badge](https://img.shields.io/badge/-@jonamadk-%23181717?style=flat-square&logo=github)](https://github.com/jonamadk)
