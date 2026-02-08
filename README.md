@@ -3,17 +3,8 @@
 
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
-Every problem that computing can solve excites me! Mostly, I enjoy working on the Research and Development of Intelligent Systems for societal-level and social good. 
-However, lately my interest is little biased towards:
-- NLP
-  1. Non-Linear, creative, and expressive language understanding and reasoning.
-  2. Non-static evaluation benchmarking of LLMs and intelligent decision support systems + Fairness and Trustworthy.
-  3. Advancing information retrieval and reasoning (meta-conversational intelligence, AI Alignment).
+Every problem that computing can solve excites me, especially the ones still waiting on P = NP. Mostly, I enjoy working on the R&D of AI Systems for  social good applications. 
 
-- Computer vision + Health Informatics + BioInformatics
-  1. Challenges associated with Federated Learning ( optimal Layerwise update on local model, averaging methods)
-  2. Image processing
-  3. Gene modeling and visualization
 
 In free time, I love building daily computing tools (PDFX - PDF Utility, SSTX Speech to Text utility, SocilaE- Phishing Awareness Systems). 
 ## 🌐 Socials
