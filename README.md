@@ -3,7 +3,7 @@
 
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
-Every problem that computing can solve excites me, especially the ones still waiting on P = NP. Mostly, I enjoy working on the R&D of AI Systems for  social good applications. 
+Every problem that computing can solve excites me, especially the ones still waiting on P = NP. Mostly, I enjoy working on the R&D of AI Systems for social good applications. Lately, I am exploring neurosymbolic approaches on retrieval & reasoning for trustworthy and secure NLP/ML system, figurative/expressive language modeling and non-static evaluation benchmarking.
 
 
 In free time, I love building daily computing tools (PDFX - PDF Utility, SSTX Speech to Text utility, SocilaE- Phishing Awareness Systems). 
