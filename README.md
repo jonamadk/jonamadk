@@ -18,7 +18,7 @@ In free time, I love building daily computing tools (PDFX - PDF Utility, SSTX Sp
 ## 💻 Tech Stack 
 
 - **Programming Languages**: Python, C, C++, Java, C#
-- **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers
+- **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers (Encoder, Decoder, Auto-regressive-ED, Quantization and PEFT)
 - **Frontend**: React, TypeScript, Next.js, TailwindCSS
 - **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
 - **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD, Azure AI Studio
