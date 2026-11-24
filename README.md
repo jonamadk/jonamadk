@@ -3,7 +3,7 @@
 
 ![banner](https://manojadhikary.com.np/resource/intro-1.png)
 
-Every problem that computing can solve excites me, especially the ones still waiting on P = NP. Mostly, I enjoy working on the R&D of AI Systems for social good applications. Lately, I am exploring neurosymbolic approaches on retrieval & reasoning for trustworthy and secure NLP/ML system, figurative/expressive language modeling and non-static evaluation benchmarking.
+Every problem that computing can solve excites me. Mostly, I enjoy working on the R&D of AI Systems for Learning Sciences and social good applications.
 
 
 In free time, I love building daily computing tools (PDFX - PDF Utility, SSTX Speech to Text utility, SocilaE- Phishing Awareness Systems). 
@@ -14,18 +14,6 @@ In free time, I love building daily computing tools (PDFX - PDF Utility, SSTX Sp
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jonamadk.jonamadk&title=Profile%20views) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/manoj-adhikari) 
 ---
-
-## 💻 Tech Stack 
-
-- **Programming Languages**: Python, C, C++, Java, C#
-- **AI/ML/NLP**: PyTorch, TensorFlow, Sci-kit Learn, CNN, LangChain, Whisper, GenAI, LLM, Transformers (Encoder, Decoder, Auto-regressive-ED, Quantization and PEFT)
-- **Frontend**: React, TypeScript, Next.js, TailwindCSS
-- **Backend**: Python, GraphQL, REST APIs, Flask, Django REST Framework, FastAPI
-- **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD, Azure AI Studio
-- **Data**: MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka, ChromaDB
-- **Business Intelligence & Visualization**: PowerBI, Tableau, Looker
-- **Tools and Packages**: Scrapy, BeautifulSoup, Pandas, Numpy, Matplotlib 
-
 
 
 ## 🤝 Let's Connect
